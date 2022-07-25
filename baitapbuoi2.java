@@ -42,4 +42,5 @@ public class baitapbuoi2 {
             System.out.println("hoc sinh ko thuoc lop!");
         }
     }
+
 }
