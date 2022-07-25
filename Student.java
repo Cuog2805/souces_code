@@ -15,12 +15,6 @@ public class Student {
         this.lopHoc = lopHoc;
     }
     public Student() {
-        this.maHocSinh = maHocSinh;
-        this.name = name;
-        this.gioiTinh = gioiTinh;
-        this.diaChi = diaChi;
-        this.namSinh = namSinh;
-        this.lopHoc = lopHoc;
     }
 
     public int getMaHocSinh() {
